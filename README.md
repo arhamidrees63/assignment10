@@ -1,6 +1,12 @@
 # 🧩 Module 10 – Secure User Model, Validation, and Docker CI/CD  
 **Author:** Muhammad Arham  
  
+ 🐳 Docker Hub Repository
+
+You can pull and run the Docker image for this project directly from Docker Hub:
+
+Docker Hub Link:
+👉 https://hub.docker.com/r/arhamidrees63/module10
 ---
 
 ## 🚀 Overview
